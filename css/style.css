@@ -1,0 +1,10 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+html,body{
+	height:100%;
+	overflow: hidden;
+	font-family: 'Lato', sans-serif !important;
+	cursor:default !important;
+}
